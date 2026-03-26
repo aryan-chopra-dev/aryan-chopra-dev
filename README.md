@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aryan%20Chopra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20%7C%20ML%20%7C%20Backend%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Aryan%20Chopra&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20Engineer%20%7C%20Backend%20%7C%20ML%20%7C%20GenAI&descAlignY=60&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+AI+Systems;RAG+%7C+LLMs+%7C+Backend+Engineering+%7C+MLOps;B.Tech+CSE+%40+VIT+Vellore" alt="Typing SVG" />
