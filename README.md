@@ -103,7 +103,7 @@ I focus on **engineering scalable, real-world AI applications**, not just models
 - Containerized using **Docker** and deployed on cloud
 - Focused on **latency optimization & scalable system design**
 
-🔗 [View Project]([https://github.com/aryan-chopra-dev/](https://github.com/aryan-chopra-dev/semantic-search-engine-with-intelligent-caching))
+🔗 [View Project](https://github.com/aryan-chopra-dev/semantic-search-engine-with-intelligent-caching)
 
 ---
 
@@ -121,7 +121,7 @@ I focus on **engineering scalable, real-world AI applications**, not just models
 - Built **Streamlit dashboard** for explainability
 - Enables **secure AI system integration in enterprise pipelines**
 
-🔗 [View Repo]([https://github.com/ARYANNNN1234](https://github.com/aryan-chopra-dev/PII-Analyzer-And-Remover))
+🔗 [View Repo](https://github.com/aryan-chopra-dev/PII-Analyzer-And-Remover)
 
 ---
 
@@ -137,11 +137,16 @@ I focus on **engineering scalable, real-world AI applications**, not just models
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ARYANNNN1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYANNNN1234&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARYANNNN1234&theme=tokyonight&hide_border=true" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aryan-chopra-dev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-chopra-dev&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-chopra-dev&theme=tokyonight&hide_border=true" width="500"/>
+
 
 </div>
+
 
 ---
 
